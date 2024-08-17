@@ -1,0 +1,19 @@
+*{
+	margin:0;
+	font-family:arial;
+	border:border-box;
+}
+.navbar{
+	height:60px;
+	background-color:#921A40;
+	color:red;
+}
+.nav-logo{
+	height:50px;
+	width:100px;
+}
+.logo{
+	background-size: cover;
+	height:50px;
+	width:100px;
+}
